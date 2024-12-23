@@ -1,3 +1,15 @@
+import 'regenerator-runtime/runtime'; 
+import { 
+  postMessageWithContentHeight, 
+  delayShowChallengeData, 
+  setRunStatus, 
+  runChallenge, 
+  asString, 
+  sendCandidate, 
+  handleMobile, 
+  handleWeb 
+} from './utils.js';
+
 function main() {
   return _main.apply(this, arguments);
 }
