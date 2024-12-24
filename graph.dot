@@ -1,0 +1,8 @@
+"main" -> "_main";
+"_main" -> "postMessageWithContentHeight";
+"_main" -> "delayShowChallengeData";
+"_main" -> "setRunStatus";
+"_main" -> "runChallenge";
+"_main" -> "sendCandidate";
+"_main" -> "handleMobile";
+"_main" -> "handleWeb";
