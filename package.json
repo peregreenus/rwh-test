@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "@babel/runtime": "^7.26.0"
+    "@babel/parser": "^7.26.3",
+    "@babel/runtime": "^7.26.0",
+    "@babel/traverse": "^7.26.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.26.4",
