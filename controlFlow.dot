@@ -1,0 +1,8 @@
+"Start" -> "postMessageWithContentHeight"; 
+"postMessageWithContentHeight" -> "delayShowChallengeData"; 
+"delayShowChallengeData" -> "setRunStatus_⧗"; 
+"setRunStatus_⧗" -> "runChallenge"; 
+"runChallenge" -> "setRunStatus_✔"; 
+"setRunStatus_✔" -> "sendCandidate"; 
+"sendCandidate" -> "handleMobile_or_handleWeb"; 
+"handleMobile_or_handleWeb" -> "End";
